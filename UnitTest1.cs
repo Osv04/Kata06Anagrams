@@ -6,7 +6,9 @@ namespace Kata06_Anagrams
     public class UnitTest1
     {
         [TestMethod]
+
         public void TimeTestThatReturn2seconds()
+
         {
             var instance = new Anagram();
 
