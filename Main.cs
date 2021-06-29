@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Kata06_Anagrams
 {
-    class Mian
+    class Main
     {
         static void Main(string[] args)
         {
