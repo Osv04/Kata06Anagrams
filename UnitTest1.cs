@@ -8,6 +8,7 @@ namespace Kata06_Anagrams
         [TestMethod]
         public void TestMethod1()
         {
+            
         }
     }
 }
