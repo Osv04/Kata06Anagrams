@@ -6,7 +6,7 @@ namespace Kata06_Anagrams
     public class UnitTest1
     {
         [TestMethod]
-        public void TestMethod1()
+        public void Lala()
         {
             
         }
