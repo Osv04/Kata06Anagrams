@@ -21,6 +21,12 @@ namespace Kata06_Anagrams
 
                 System.IO.StreamReader file = new System.IO.StreamReader(path);
 
+                while ((line = file.ReadLine()) != null)
+                {
+                    //Ordenar la palabra
+                    string Word = new String(line.OrderBy(x => x).ToArray());
+                }
+
         }
     }
 }
