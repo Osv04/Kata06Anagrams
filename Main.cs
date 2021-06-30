@@ -14,6 +14,13 @@ namespace Kata06_Anagrams
             public  Hashtable ListAnagrams;
             public  Hashtable Index;
 
+            //INICIALIZAR LAS VARIABLES
+                string line;
+                ListAnagrams = new Hashtable();
+                Index = new Hashtable();
+
+                System.IO.StreamReader file = new System.IO.StreamReader(path);
+
         }
     }
 }
