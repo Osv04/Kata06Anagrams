@@ -8,7 +8,7 @@ namespace Kata06_Anagrams
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Push Steven");
+            
         }
     }
 }
