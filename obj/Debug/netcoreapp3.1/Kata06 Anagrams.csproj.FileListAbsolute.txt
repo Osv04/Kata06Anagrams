@@ -1,0 +1,3 @@
+C:\Users\oscar\Documents\Proyectos\Kata06Anagrams\obj\Debug\netcoreapp3.1\Kata06 Anagrams.csprojAssemblyReference.cache
+C:\Users\oscar\Documents\Proyectos\Kata06Anagrams\obj\Debug\netcoreapp3.1\Kata06 Anagrams.AssemblyInfoInputs.cache
+C:\Users\oscar\Documents\Proyectos\Kata06Anagrams\obj\Debug\netcoreapp3.1\Kata06 Anagrams.AssemblyInfo.cs

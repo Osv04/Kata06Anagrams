@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oscar\\source\\repos\\Kata06 Anagrams\\Kata06 Anagrams\\Kata06 Anagrams.csproj": {}
+    "C:\\Users\\oscar\\Documents\\Proyectos\\Kata06Anagrams\\Kata06 Anagrams.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oscar\\source\\repos\\Kata06 Anagrams\\Kata06 Anagrams\\Kata06 Anagrams.csproj": {
+    "C:\\Users\\oscar\\Documents\\Proyectos\\Kata06Anagrams\\Kata06 Anagrams.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oscar\\source\\repos\\Kata06 Anagrams\\Kata06 Anagrams\\Kata06 Anagrams.csproj",
+        "projectUniqueName": "C:\\Users\\oscar\\Documents\\Proyectos\\Kata06Anagrams\\Kata06 Anagrams.csproj",
         "projectName": "Kata06 Anagrams",
-        "projectPath": "C:\\Users\\oscar\\source\\repos\\Kata06 Anagrams\\Kata06 Anagrams\\Kata06 Anagrams.csproj",
+        "projectPath": "C:\\Users\\oscar\\Documents\\Proyectos\\Kata06Anagrams\\Kata06 Anagrams.csproj",
         "packagesPath": "C:\\Users\\oscar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oscar\\source\\repos\\Kata06 Anagrams\\Kata06 Anagrams\\obj\\",
+        "outputPath": "C:\\Users\\oscar\\Documents\\Proyectos\\Kata06Anagrams\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
