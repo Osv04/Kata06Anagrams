@@ -1,4 +1,8 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System.Collections;
+using System.Collections.Generic;
+using System.Text;
+using System; 
 namespace Kata06_Anagrams
 {
     [TestClass]
