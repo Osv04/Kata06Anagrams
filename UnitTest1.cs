@@ -19,7 +19,7 @@ namespace Kata06_Anagrams
         }
 
          [TestMethod]
-        public void TestMethod2()
+        public void NumberOfWords()
         {
             var instance = new Program.Anagram();
             instance.Read(@"../wordlist.txt");
